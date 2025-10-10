@@ -6,15 +6,15 @@ The purpose of this case study is to help BrightTV’s CEO achieve the objective
 # COLUMN NAME DESCRIPTIONS
 Dataset 1: User Information
 Column Name	Description
-USERID	A unique identifier assigned to each user or subscriber.
-NAME	The first name of the user.
-SURNAME	The last name of the user.
-EMAIL	The email address of the user, used for communication and verification.
-GENDER	The gender of the user (e.g., male or female).
-RACE	The racial demographic category of the user (e.g., black, white, coloured).
-AGE	The age of the user, which helps analyze viewing behavior across age groups.
-PROVINCE	The South African province where the user resides. Useful for geographical viewership analysis.
-SOCIAL_MEDIA_HANDLE	The user’s social media username or handle, which can be used for digital engagement analysis.
+-USERID	A unique identifier assigned to each user or subscriber.
+-NAME	The first name of the user.
+-SURNAME	The last name of the user.
+-EMAIL	The email address of the user, used for communication and verification.
+-GENDER	The gender of the user (e.g., male or female).
+-RACE	The racial demographic category of the user (e.g., black, white, coloured).
+-AGE	The age of the user, which helps analyze viewing behavior across age groups.
+-PROVINCE	The South African province where the user resides. Useful for geographical viewership analysis.
+-SOCIAL_MEDIA_HANDLE	The user’s social media username or handle, which can be used for digital engagement analysis.
 
 Dataset 2: Viewing Data
 Column Name	Description
