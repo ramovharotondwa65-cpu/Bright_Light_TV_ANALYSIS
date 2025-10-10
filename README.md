@@ -5,7 +5,7 @@ The purpose of this case study is to help BrightTV’s CEO achieve the objective
 
 # COLUMN NAME DESCRIPTIONS
 Dataset 1: User Information
-Column Name	Description
+
 USERID:	A unique identifier assigned to each user or subscriber.
 
 NAME:	The first name of the user.
@@ -25,7 +25,7 @@ PROVINCE:	The South African province where the user resides. Useful for geograph
 SOCIAL_MEDIA_HANDLE:	The user’s social media username or handle, which can be used for digital engagement analysis.
 
 Dataset 2: Viewing Data
-Column Name	Description
+
 
 USERID:	A unique identifier that links the viewing data to the corresponding user in the first dataset.
 
