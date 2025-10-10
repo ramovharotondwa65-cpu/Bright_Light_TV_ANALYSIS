@@ -11,18 +11,28 @@ Column Name	Description
 -NAME	The first name of the user.
 
 -SURNAME	The last name of the user.
+
 -EMAIL	The email address of the user, used for communication and verification.
+
 -GENDER	The gender of the user (e.g., male or female).
+
 -RACE	The racial demographic category of the user (e.g., black, white, coloured).
+
 -AGE	The age of the user, which helps analyze viewing behavior across age groups.
+
 -PROVINCE	The South African province where the user resides. Useful for geographical viewership analysis.
+
 -SOCIAL_MEDIA_HANDLE	The user’s social media username or handle, which can be used for digital engagement analysis.
 
 Dataset 2: Viewing Data
 Column Name	Description
+
 USERID	A unique identifier that links the viewing data to the corresponding user in the first dataset.
+
 CHANNEL2	The TV channel or program name being viewed.
-RECORDDATE2	The date and time when the viewing activity occurred (in the format YYYY/MM/DD HH:MI).
+
+RECORDDATE2	The date and time when the viewing activity occurred (in the format YYYY/MM/DD HH:MI:SS).
+
 DURATION2	The total duration of time (HH:MM:SS) that the user spent watching the specific channel or program.
 PROBLEM STATEMENT
 
