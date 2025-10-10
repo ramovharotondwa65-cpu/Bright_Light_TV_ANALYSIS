@@ -7,7 +7,9 @@ The purpose of this case study is to help BrightTV’s CEO achieve the objective
 Dataset 1: User Information
 Column Name	Description
 -USERID	A unique identifier assigned to each user or subscriber.
+
 -NAME	The first name of the user.
+
 -SURNAME	The last name of the user.
 -EMAIL	The email address of the user, used for communication and verification.
 -GENDER	The gender of the user (e.g., male or female).
